@@ -1,5 +1,5 @@
 // Select the database to use.
-use('ReactFrontendProject');
+use('Backend');
 
 // Insert a few documents into the PortfolioData collection.
 db.getCollection('projects').insertMany(

@@ -6,7 +6,6 @@ const portfolioModel = new mongoose.model("projects", mongoose.Schema({
     github: String,
     demo: String,
 }))
-
 module.exports = {
     portfolioModel
 }

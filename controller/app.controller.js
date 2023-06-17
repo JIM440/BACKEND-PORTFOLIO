@@ -1,5 +1,5 @@
 const {portfolioModel} = require('../model/portfolio_model');
-const {testimonialsModel} = require('../model/testimonial_model');
+const {testimonialModel} = require('../model/testimonial_model');
 
 exports.portfolioAppRoute = async (req, res) => {
     try {
@@ -15,7 +15,7 @@ exports.portfolioAppRoute = async (req, res) => {
 
 exports.testimonialAppRoute = async (req, res) => {
     try {
-        items = await testimonialsModel.find({});
+        items = await testimonialModel.find({});
         return res.status(200).send({
         message: 'Success',
         data: items
