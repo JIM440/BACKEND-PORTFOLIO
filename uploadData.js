@@ -6,30 +6,30 @@ db.getCollection('projects').insertMany(
     [
         {
           
-            image: 'https://cdn.dribbble.com/userupload/7518943/file/original-b39a16475b25ac10559e04034bd8b9b7.png?compress=1&resize=1504x1128',
-            title: 'Online Crypto Casino',
-            github: 'https://github.com',
-            demo: 'https://dribbble.com/shots/21632973-Online-Crypto-Casino-Mobile-Designs',
+            image: 'https://copyassignment.com/wp-content/uploads/2022/09/Library-Management-System-Project-in-Java.jpg',
+            title: 'Library Management System',
+            github: 'https://github.com/JIM440/LIBRARY-MANAGEMENT-SYSTEM',
+            demo: 'https://dribbble.com/shots/19582832-Library-Management-Dashboard',
         },
         {
        
-            image: 'https://cdn.dribbble.com/userupload/7531024/file/original-28960363b0b1e5a03c2f6f1f077c298e.jpg?compress=1&resize=1504x1128',
-            title: 'Education App UIX',
-            github: 'https://github.com',
-            demo: 'https://dribbble.com/shots/21637001-Education-App-UIX',
+            image: 'https://miro.medium.com/v2/resize:fit:1400/1*AMa43vvUwPFtGg4uIpl3jw.png',
+            title: 'React-App',
+            github: 'https://github.com/JIM440/REACTPORTFOLIO-FET',
+            demo: 'https://dribbble.com/shots/18845600-Michal-Chudziak-Portfolio',
         },
         {
             image: 'https://cdn.dribbble.com/userupload/7474794/file/original-ec5e3ff0615f4ec018a8662d76206bde.jpg?compress=1&resize=1504x1126',
             title: 'Recipe app design',
-            github: 'https://github.com',
+            github: 'https://github.com/njiddasalifu/File-Management-System',
             demo: 'https://dribbble.com/shots/21617723-Recipe-app-design',
         },
         {
         
-            image: 'https://cdn.dribbble.com/userupload/7527073/file/original-a56488a4a04a23bfbeb97cafc030dde5.png?compress=1&resize=1504x1128',
-            title: 'OnStep - Shoes Store',
+            image: 'https://cdn.educba.com/academy/wp-content/uploads/2020/02/File-Handling-in-Java.jpg',
+            title: 'File System In Java',
             github: 'https://github.com',
-            demo: 'https://dribbble.com/shots/21635811-OnStep-Shoes-Store',
+            demo: 'https://dribbble.com/shots/21154209-Incloud-Cloud-Storage-Dashboard',
         },
         {
      
@@ -54,24 +54,18 @@ db.getCollection('projects').insertMany(
 //  [
 //         {
 //           avatar: 'https://cdn.fstoppers.com/styles/large-16-9/s3/lead/2019/01/tips-for-professional-portraits.jpg',
-//           name: 'James Brown',
-//           review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus velit omnis deserunt corrupti perferendis quisquam officia cupiditate ut impedit magnam iusto numquam odio eos, itaque, explicabo ipsum esse dolorem unde!"
-//         },
-        
-//         {
-//           avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rvvFzP2v-40awpf_uw6dq1UVh8R3jkGM2rrrqIbd6Ih3_d_fCEW8Fn0sl5OsJ1qaLuo&usqp=CAU',
-//           name: 'Tina Snow ',
-//           review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus velit omnis deserunt corrupti perferendis quisquam officia cupiditate ut impedit magnam iusto numquam odio eos, itaque, explicabo ipsum esse dolorem unde!"
+//           name: 'John Brown',
+//           review: "I highly recommend Jim as a skilled and reliable front-end developer. He has exceptional attention to detail and can translate design ideas into beautiful and functional websites. Jim is a valuable asset to any web development team"
 //         },
 //         {
 //           avatar: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJpfFkpLYgdR4R0-ZomZ0ixnZVgLQUOnZnWQ&usqp=CAU',
 //           name: 'Kevin Roussel',
-//           review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus velit omnis deserunt corrupti perferendis quisquam officia cupiditate ut impedit magnam iusto numquam odio eos, itaque, explicabo ipsum esse dolorem unde!"
+//           review: "I highly recommend Jim as a skilled and reliable front-end developer. He has exceptional attention to detail and can translate design ideas into beautiful and functional websites. Jim is a valuable asset to any web development team"
 //         },
 //         {
 //           avatar: 'https://images.squarespace-cdn.com/content/v1/530ce8d1e4b067ea68a9f821/1612484390216-5NVBC0NJJTFP1OPNRU6F/corporate%2Bbusiness%2Bheadshots%2Blos%2Bangeles_Danielle%2BSpires.jpg',
-//           name: 'Louisa McBrown',
-//           review: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatibus velit omnis deserunt corrupti perferendis quisquam officia cupiditate ut impedit magnam iusto numquam odio eos, itaque, explicabo ipsum esse dolorem unde!"
+//           name: 'Louis McBrown',
+//           review: "I highly recommend Jim as a skilled and reliable front-end developer. He has exceptional attention to detail and can translate design ideas into beautiful and functional websites. Jim is a valuable asset to any web development team"
 //         },
       
       
