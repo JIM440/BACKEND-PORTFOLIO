@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const testimonialModel = new mongoose.model("testimonials", mongoose.Schema({
+const testimonialsModel = new mongoose.model("testimonials", mongoose.Schema({
     _id: String,
     avatar: String,
     name: String,
@@ -7,5 +7,5 @@ const testimonialModel = new mongoose.model("testimonials", mongoose.Schema({
 }))
 
 module.exports = {
-    testimonialModel
+    testimonialsModel
 }
